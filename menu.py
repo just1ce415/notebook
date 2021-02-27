@@ -1,6 +1,7 @@
 """
 Laboratory 4.6
 menu.py
+GitHub: https://github.com/just1ce415/notebook.git
 """
 
 import sys
